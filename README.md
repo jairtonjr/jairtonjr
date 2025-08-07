@@ -1,6 +1,6 @@
 # 🤖 Jairton Junior
 
-**`Estudande de ADS`** 📖🖖
+**`Estudande de ADS`** 📖💻
 
 Meu nome é Jairton Júnior Souza Barros, tenho 31 anos e sou natural de Minas Gerais. 
 Formado em Administração e atualmente estudante de **Análise e Desenvolvimento de Sistemas** pelo IFNMG. Sou movido pela curiosidade e vontade de aprender.
