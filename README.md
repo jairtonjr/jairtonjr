@@ -1,16 +1,13 @@
-## Hi there 👋
+# 🤖 Jairton Junior
 
-<!--
-**jairtonjr/jairtonjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudande de ADS`** 📖🖖
 
-Here are some ideas to get you started:
+Meu nome é Jairton Júnior Souza Barros, tenho 31 anos e sou natural de Minas Gerais. 
+Formado em Administração e atualmente estudante de **Análise e Desenvolvimento de Sistemas** pelo IFNMG. Natural de Minas Gerais, tenho 31 anos e sou movido pela curiosidade e vontade de aprender.
+Entusiasta de **análise de dados** e **design**, estou sempre em busca de desenvolver soluções criativas e eficientes, mesmo ainda estando nos primeiros passos no mundo da **tecnologia**.
+Este espaço no GitHub é meu **portfólio de aprendizado**, onde compartilho projetos, exercícios e experiências que vão moldando minha jornada como desenvolvedor.
+Além do universo da programação, passo meu tempo com **games**, **animes** e **rock n' roll**, na qual fazem parte da minha identidade e me inspiram em muitos aspectos da vida e da criatividade. 🎮🤘 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Vamos conectar?  
+- [LinkedIn](https://www.linkedin.com/in/jairton-junior)  
+- [Instagram](https://www.instagram.com/junin_barros)
