@@ -7,3 +7,7 @@ Formado em **Administração** e atualmente estudante de **Análise e Desenvolvi
 Entusiasta de **análise de dados** e **design**, estou sempre em busca de desenvolver soluções criativas e eficientes, mesmo ainda estando nos primeiros passos no mundo da **tecnologia**.
 Este espaço no GitHub é meu **portfólio de aprendizado**, onde compartilho projetos, exercícios e experiências que vão moldando minha jornada como desenvolvedor.
 Além do universo da programação, passo meu tempo com **games**, **animes** e **rock n' roll**, na qual fazem parte da minha identidade e me inspiram em muitos aspectos da vida e da criatividade. 🎮🤘 
+
+---
+
+> “Aprender é a única coisa que a mente nunca se cansa, nunca tem medo e nunca se arrepende.” – Leonardo da Vinci
